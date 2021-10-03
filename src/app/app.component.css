@@ -1,0 +1,29 @@
+
+.mytable {
+    border: 1px soid red!important;
+}
+.mat-header-row {
+    height: 16px;
+}
+
+.mat-row {
+    height: 20px;
+    padding:5px
+}
+.mat-cell {
+    
+    padding:5px
+}
+.mat-header-cell {
+    color:red;
+    font-size: 15px;
+    padding:5px
+}
+
+.mat-column-id {
+    width:100px;
+}
+
+.mat-column-name {
+    width:300px;
+}
